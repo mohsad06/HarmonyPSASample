@@ -20,5 +20,4 @@ namespace HarmonyPSASample.Helper
         /// <returns>Price bands for the specified customer.</returns>
         IEnumerable<PriceBand> GetAccountPriceBands(Guid customerAccount);
     }
-
 }
